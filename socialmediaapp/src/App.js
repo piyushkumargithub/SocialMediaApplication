@@ -1,12 +1,9 @@
 import React from 'react';
+import Login from './pages/login/Login';
 
 function App() {
   return (
-    <div style={{ textAlign: 'center' }}>
-      <header>
-        sdaiofhjodisfh
-      </header>
-    </div>
+    <Login/>
   );
 }
 
