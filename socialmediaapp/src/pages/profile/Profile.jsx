@@ -63,8 +63,8 @@ function Profile() {
             <MoreVertIcon />
           </div>
         </div>
-      </div>
       <Posts/>
+      </div>
     </div>
   );
 }
